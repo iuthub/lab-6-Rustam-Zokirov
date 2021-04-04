@@ -9,7 +9,3 @@
 ## Extra
 - Video lecture - https://www.youtube.com/watch?v=bvQZ7HkCKNg
 - https://t.me/iut_ip2021/22
-
-# Extra
-- Video lecture - https://www.youtube.com/watch?v=bvQZ7HkCKNg
-- https://t.me/iut_ip2021/22
