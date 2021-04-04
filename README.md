@@ -10,9 +10,6 @@
 - Video lecture - https://www.youtube.com/watch?v=bvQZ7HkCKNg
 - https://t.me/iut_ip2021/22
 
-## Checkpoints
-<img src="img/1.png" width=600">
-
 # Extra
 - Video lecture - https://www.youtube.com/watch?v=bvQZ7HkCKNg
 - https://t.me/iut_ip2021/22
